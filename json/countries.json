@@ -1,0 +1,1752 @@
+[
+	{
+		"name" : "Afghanistan",
+		"code" : "AF",
+		"prefix_phone" : "+93",
+		"gps_latitude" : 34.5166666666670000,
+		"gps_longitude" : 69.1833330000000000
+	},
+	{
+		"name" : "Aland Islands",
+		"code" : "AX",
+		"prefix_phone" : "+358",
+		"gps_latitude" : 60.0146060000000000,
+		"gps_longitude" : 20.4139400000000000
+	},
+	{
+		"name" : "Albania",
+		"code" : "AL",
+		"prefix_phone" : "+355",
+		"gps_latitude" : 41.3166666666670000,
+		"gps_longitude" : 19.8166670000000000
+	},
+	{
+		"name" : "Algeria",
+		"code" : "DZ",
+		"prefix_phone" : "+213",
+		"gps_latitude" : 36.7500000000000000,
+		"gps_longitude" : 3.0500000000000000
+	},
+	{
+		"name" : "American Samoa",
+		"code" : "AS",
+		"prefix_phone" : "+1-684",
+		"gps_latitude" : -14.2666666666670000,
+		"gps_longitude" : -170.7000000000000000
+	},
+	{
+		"name" : "Andorra",
+		"code" : "AD",
+		"prefix_phone" : "+376",
+		"gps_latitude" : 42.5000000000000000,
+		"gps_longitude" : 1.5166670000000000
+	},
+	{
+		"name" : "Angola",
+		"code" : "AO",
+		"prefix_phone" : "+244",
+		"gps_latitude" : -8.8333333333333000,
+		"gps_longitude" : 13.2166670000000000
+	},
+	{
+		"name" : "Anguilla",
+		"code" : "AI",
+		"prefix_phone" : "+1-264",
+		"gps_latitude" : 18.2166666666670000,
+		"gps_longitude" : -63.0500000000000000
+	},
+	{
+		"name" : "Antarctica",
+		"code" : "AQ",
+		"prefix_phone" : "+672",
+		"gps_latitude" : 0E-16,
+		"gps_longitude" : 0E-16
+	},
+	{
+		"name" : "Antigua and Barbuda",
+		"code" : "AG",
+		"prefix_phone" : "+1-268",
+		"gps_latitude" : 17.1166666666670000,
+		"gps_longitude" : -61.8500000000000000
+	},
+	{
+		"name" : "Argentina",
+		"code" : "AR",
+		"prefix_phone" : "+54",
+		"gps_latitude" : -34.5833333333330000,
+		"gps_longitude" : -58.6666670000000000
+	},
+	{
+		"name" : "Armenia",
+		"code" : "AM",
+		"prefix_phone" : "+374",
+		"gps_latitude" : 40.1666666666670000,
+		"gps_longitude" : 44.5000000000000000
+	},
+	{
+		"name" : "Aruba",
+		"code" : "AW",
+		"prefix_phone" : "+297",
+		"gps_latitude" : 12.5166666666670000,
+		"gps_longitude" : -70.0333330000000000
+	},
+	{
+		"name" : "Australia",
+		"code" : "AU",
+		"prefix_phone" : "+61",
+		"gps_latitude" : -35.2666666666670000,
+		"gps_longitude" : 149.1333330000000000
+	},
+	{
+		"name" : "Austria",
+		"code" : "AT",
+		"prefix_phone" : "+43",
+		"gps_latitude" : 48.2000000000000000,
+		"gps_longitude" : 16.3666670000000000
+	},
+	{
+		"name" : "Azerbaijan",
+		"code" : "AZ",
+		"prefix_phone" : "+994",
+		"gps_latitude" : 40.3833333333330000,
+		"gps_longitude" : 49.8666670000000000
+	},
+	{
+		"name" : "Bahamas",
+		"code" : "BS",
+		"prefix_phone" : "+1-242",
+		"gps_latitude" : 25.0833333333330000,
+		"gps_longitude" : -77.3500000000000000
+	},
+	{
+		"name" : "Bahrain",
+		"code" : "BH",
+		"prefix_phone" : "+973",
+		"gps_latitude" : 26.2333333333330000,
+		"gps_longitude" : 50.5666670000000000
+	},
+	{
+		"name" : "Bangladesh",
+		"code" : "BD",
+		"prefix_phone" : "+880",
+		"gps_latitude" : 23.7166666666670000,
+		"gps_longitude" : 90.4000000000000000
+	},
+	{
+		"name" : "Barbados",
+		"code" : "BB",
+		"prefix_phone" : "+1-246",
+		"gps_latitude" : 13.1000000000000000,
+		"gps_longitude" : -59.6166670000000000
+	},
+	{
+		"name" : "Belarus",
+		"code" : "BY",
+		"prefix_phone" : "+375",
+		"gps_latitude" : 53.9000000000000000,
+		"gps_longitude" : 27.5666670000000000
+	},
+	{
+		"name" : "Belgium",
+		"code" : "BE",
+		"prefix_phone" : "+32",
+		"gps_latitude" : 50.8333333333330000,
+		"gps_longitude" : 4.3333330000000000
+	},
+	{
+		"name" : "Belize",
+		"code" : "BZ",
+		"prefix_phone" : "+501",
+		"gps_latitude" : 17.2500000000000000,
+		"gps_longitude" : -88.7666670000000000
+	},
+	{
+		"name" : "Benin",
+		"code" : "BJ",
+		"prefix_phone" : "+229",
+		"gps_latitude" : 6.4833333333333000,
+		"gps_longitude" : 2.6166670000000000
+	},
+	{
+		"name" : "Bermuda",
+		"code" : "BM",
+		"prefix_phone" : "+1-441",
+		"gps_latitude" : 32.2833333333330000,
+		"gps_longitude" : -64.7833330000000000
+	},
+	{
+		"name" : "Bhutan",
+		"code" : "BT",
+		"prefix_phone" : "+975",
+		"gps_latitude" : 27.4666666666670000,
+		"gps_longitude" : 89.6333330000000000
+	},
+	{
+		"name" : "Bolivia",
+		"code" : "BO",
+		"prefix_phone" : "+591",
+		"gps_latitude" : -16.5000000000000000,
+		"gps_longitude" : -68.1500000000000000
+	},
+	{
+		"name" : "Bonaire  Sint Eustatius and Saba",
+		"code" : "BQ",
+		"prefix_phone" : null,
+		"gps_latitude" : 12.1683718000000000,
+		"gps_longitude" : -68.3081830000000000
+	},
+	{
+		"name" : "Bosnia and Herzegovina",
+		"code" : "BA",
+		"prefix_phone" : "+387",
+		"gps_latitude" : 43.8666666666670000,
+		"gps_longitude" : 18.4166670000000000
+	},
+	{
+		"name" : "Botswana",
+		"code" : "BW",
+		"prefix_phone" : "+267",
+		"gps_latitude" : -24.6333333333330000,
+		"gps_longitude" : 25.9000000000000000
+	},
+	{
+		"name" : "Bouvet Island",
+		"code" : "BV",
+		"prefix_phone" : "+55",
+		"gps_latitude" : -54.4333316000000000,
+		"gps_longitude" : 3.3999984000000000
+	},
+	{
+		"name" : "Brazil",
+		"code" : "BR",
+		"prefix_phone" : "+55",
+		"gps_latitude" : -15.7833333333330000,
+		"gps_longitude" : -47.9166670000000000
+	},
+	{
+		"name" : "British Indian Ocean Territory",
+		"code" : "IO",
+		"prefix_phone" : "0",
+		"gps_latitude" : -7.3000000000000000,
+		"gps_longitude" : 72.4000000000000000
+	},
+	{
+		"name" : "Brunei",
+		"code" : "BN",
+		"prefix_phone" : "+673",
+		"gps_latitude" : 4.8833333333333000,
+		"gps_longitude" : 114.9333330000000000
+	},
+	{
+		"name" : "Bulgaria",
+		"code" : "BG",
+		"prefix_phone" : "+359",
+		"gps_latitude" : 42.6833333333330000,
+		"gps_longitude" : 23.3166670000000000
+	},
+	{
+		"name" : "Burkina Faso",
+		"code" : "BF",
+		"prefix_phone" : "+226",
+		"gps_latitude" : 12.3666666666670000,
+		"gps_longitude" : -1.5166670000000000
+	},
+	{
+		"name" : "Burundi",
+		"code" : "BI",
+		"prefix_phone" : "+257",
+		"gps_latitude" : -3.3666666666667000,
+		"gps_longitude" : 29.3500000000000000
+	},
+	{
+		"name" : "Cambodia",
+		"code" : "KH",
+		"prefix_phone" : "+855",
+		"gps_latitude" : 11.5500000000000000,
+		"gps_longitude" : 104.9166670000000000
+	},
+	{
+		"name" : "Cameroon",
+		"code" : "CM",
+		"prefix_phone" : "+237",
+		"gps_latitude" : 3.8666666666667000,
+		"gps_longitude" : 11.5166670000000000
+	},
+	{
+		"name" : "Canada",
+		"code" : "CA",
+		"prefix_phone" : "+1",
+		"gps_latitude" : 45.4166666666670000,
+		"gps_longitude" : -75.7000000000000000
+	},
+	{
+		"name" : "Cape Verde",
+		"code" : "CV",
+		"prefix_phone" : "+238",
+		"gps_latitude" : 14.9166666666670000,
+		"gps_longitude" : -23.5166670000000000
+	},
+	{
+		"name" : "Cayman Islands",
+		"code" : "KY",
+		"prefix_phone" : "+1-345",
+		"gps_latitude" : 19.3000000000000000,
+		"gps_longitude" : -81.3833330000000000
+	},
+	{
+		"name" : "Central African Republic",
+		"code" : "CF",
+		"prefix_phone" : "+236",
+		"gps_latitude" : 4.3666666666667000,
+		"gps_longitude" : 18.5833330000000000
+	},
+	{
+		"name" : "Chad",
+		"code" : "TD",
+		"prefix_phone" : "+235",
+		"gps_latitude" : 12.1000000000000000,
+		"gps_longitude" : 15.0333330000000000
+	},
+	{
+		"name" : "Chile",
+		"code" : "CL",
+		"prefix_phone" : "+56",
+		"gps_latitude" : -33.4500000000000000,
+		"gps_longitude" : -70.6666670000000000
+	},
+	{
+		"name" : "China",
+		"code" : "CN",
+		"prefix_phone" : "+86",
+		"gps_latitude" : 39.9166666666670000,
+		"gps_longitude" : 116.3833330000000000
+	},
+	{
+		"name" : "Christmas Island",
+		"code" : "CX",
+		"prefix_phone" : "+53",
+		"gps_latitude" : -10.4166666666670000,
+		"gps_longitude" : 105.7166670000000000
+	},
+	{
+		"name" : "Cocos (Keeling) Islands",
+		"code" : "CC",
+		"prefix_phone" : "+61",
+		"gps_latitude" : -12.1666666666670000,
+		"gps_longitude" : 96.8333330000000000
+	},
+	{
+		"name" : "Colombia",
+		"code" : "CO",
+		"prefix_phone" : "+57",
+		"gps_latitude" : 4.6000000000000000,
+		"gps_longitude" : -74.0833330000000000
+	},
+	{
+		"name" : "Comoros",
+		"code" : "KM",
+		"prefix_phone" : "+269",
+		"gps_latitude" : -11.7000000000000000,
+		"gps_longitude" : 43.2333330000000000
+	},
+	{
+		"name" : "Congo",
+		"code" : "CG",
+		"prefix_phone" : "+242",
+		"gps_latitude" : -4.2500000000000000,
+		"gps_longitude" : 15.2833330000000000
+	},
+	{
+		"name" : "Cook Islands",
+		"code" : "CK",
+		"prefix_phone" : "+682",
+		"gps_latitude" : -21.2000000000000000,
+		"gps_longitude" : -159.7666670000000000
+	},
+	{
+		"name" : "Costa Rica",
+		"code" : "CR",
+		"prefix_phone" : "+506",
+		"gps_latitude" : 9.9333333333333000,
+		"gps_longitude" : -84.0833330000000000
+	},
+	{
+		"name" : "Ivory Coast",
+		"code" : "CI",
+		"prefix_phone" : "+225",
+		"gps_latitude" : 6.8166666666667000,
+		"gps_longitude" : -5.2666670000000000
+	},
+	{
+		"name" : "Croatia",
+		"code" : "HR",
+		"prefix_phone" : "+385",
+		"gps_latitude" : 45.8000000000000000,
+		"gps_longitude" : 16.0000000000000000
+	},
+	{
+		"name" : "Cuba",
+		"code" : "CU",
+		"prefix_phone" : "+53",
+		"gps_latitude" : 23.1166666666670000,
+		"gps_longitude" : -82.3500000000000000
+	},
+	{
+		"name" : "Curacao",
+		"code" : "CW",
+		"prefix_phone" : "+599",
+		"gps_latitude" : 12.1000000000000000,
+		"gps_longitude" : -68.9166670000000000
+	},
+	{
+		"name" : "Cyprus",
+		"code" : "CY",
+		"prefix_phone" : "+357",
+		"gps_latitude" : 35.1666666666670000,
+		"gps_longitude" : 33.3666670000000000
+	},
+	{
+		"name" : "Czech Republic",
+		"code" : "CZ",
+		"prefix_phone" : "+420",
+		"gps_latitude" : 50.0833333333330000,
+		"gps_longitude" : 14.4666670000000000
+	},
+	{
+		"name" : "Democratic Republic of the Congo",
+		"code" : "CD",
+		"prefix_phone" : "+243",
+		"gps_latitude" : -4.3166666666667000,
+		"gps_longitude" : 15.3000000000000000
+	},
+	{
+		"name" : "Denmark",
+		"code" : "DK",
+		"prefix_phone" : "+45",
+		"gps_latitude" : 55.6666666666670000,
+		"gps_longitude" : 12.5833330000000000
+	},
+	{
+		"name" : "Djibouti",
+		"code" : "DJ",
+		"prefix_phone" : "+253",
+		"gps_latitude" : 11.5833333333330000,
+		"gps_longitude" : 43.1500000000000000
+	},
+	{
+		"name" : "Dominica",
+		"code" : "DM",
+		"prefix_phone" : "+1-767",
+		"gps_latitude" : 15.3000000000000000,
+		"gps_longitude" : -61.4000000000000000
+	},
+	{
+		"name" : "Dominican Republic",
+		"code" : "DO",
+		"prefix_phone" : "+1-809",
+		"gps_latitude" : 18.4666666666670000,
+		"gps_longitude" : -69.9000000000000000
+	},
+	{
+		"name" : "Ecuador",
+		"code" : "EC",
+		"prefix_phone" : "+593 ",
+		"gps_latitude" : -0.2166666666666700,
+		"gps_longitude" : -78.5000000000000000
+	},
+	{
+		"name" : "Egypt",
+		"code" : "EG",
+		"prefix_phone" : "+20",
+		"gps_latitude" : 30.0500000000000000,
+		"gps_longitude" : 31.2500000000000000
+	},
+	{
+		"name" : "El Salvador",
+		"code" : "SV",
+		"prefix_phone" : "+503",
+		"gps_latitude" : 13.7000000000000000,
+		"gps_longitude" : -89.2000000000000000
+	},
+	{
+		"name" : "Equatorial Guinea",
+		"code" : "GQ",
+		"prefix_phone" : "+240",
+		"gps_latitude" : 3.7500000000000000,
+		"gps_longitude" : 8.7833330000000000
+	},
+	{
+		"name" : "Eritrea",
+		"code" : "ER",
+		"prefix_phone" : "+291",
+		"gps_latitude" : 15.3333333333330000,
+		"gps_longitude" : 38.9333330000000000
+	},
+	{
+		"name" : "Estonia",
+		"code" : "EE",
+		"prefix_phone" : "+372",
+		"gps_latitude" : 59.4333333333330000,
+		"gps_longitude" : 24.7166670000000000
+	},
+	{
+		"name" : "Ethiopia",
+		"code" : "ET",
+		"prefix_phone" : "+251",
+		"gps_latitude" : 9.0333333333333000,
+		"gps_longitude" : 38.7000000000000000
+	},
+	{
+		"name" : "Falkland Islands (Malvinas)",
+		"code" : "FK",
+		"prefix_phone" : "+500",
+		"gps_latitude" : -51.7000000000000000,
+		"gps_longitude" : -57.8500000000000000
+	},
+	{
+		"name" : "Faroe Islands",
+		"code" : "FO",
+		"prefix_phone" : "+298",
+		"gps_latitude" : 62.0000000000000000,
+		"gps_longitude" : -6.7666670000000000
+	},
+	{
+		"name" : "Fiji",
+		"code" : "FJ",
+		"prefix_phone" : "+679",
+		"gps_latitude" : -18.1333333333330000,
+		"gps_longitude" : 178.4166670000000000
+	},
+	{
+		"name" : "Finland",
+		"code" : "FI",
+		"prefix_phone" : "+358",
+		"gps_latitude" : 60.1666666666670000,
+		"gps_longitude" : 24.9333330000000000
+	},
+	{
+		"name" : "France",
+		"code" : "FR",
+		"prefix_phone" : "+33",
+		"gps_latitude" : 48.8666666666670000,
+		"gps_longitude" : 2.3333330000000000
+	},
+	{
+		"name" : "French Guiana",
+		"code" : "GF",
+		"prefix_phone" : "+594",
+		"gps_latitude" : 5.2360000000000000,
+		"gps_longitude" : -52.7750000000000000
+	},
+	{
+		"name" : "French Polynesia",
+		"code" : "PF",
+		"prefix_phone" : "+689",
+		"gps_latitude" : -17.5333333333330000,
+		"gps_longitude" : -149.5666670000000000
+	},
+	{
+		"name" : "French Southern Territories",
+		"code" : "TF",
+		"prefix_phone" : "0",
+		"gps_latitude" : -49.3500000000000000,
+		"gps_longitude" : 70.2166670000000000
+	},
+	{
+		"name" : "Gabon",
+		"code" : "GA",
+		"prefix_phone" : "+241",
+		"gps_latitude" : 0.3833333333333300,
+		"gps_longitude" : 9.4500000000000000
+	},
+	{
+		"name" : "Gambia",
+		"code" : "GM",
+		"prefix_phone" : "+220",
+		"gps_latitude" : 13.4500000000000000,
+		"gps_longitude" : -16.5666670000000000
+	},
+	{
+		"name" : "Georgia",
+		"code" : "GE",
+		"prefix_phone" : "+995",
+		"gps_latitude" : 41.6833333333330000,
+		"gps_longitude" : 44.8333330000000000
+	},
+	{
+		"name" : "Germany",
+		"code" : "DE",
+		"prefix_phone" : "+49",
+		"gps_latitude" : 52.5166666666670000,
+		"gps_longitude" : 13.4000000000000000
+	},
+	{
+		"name" : "Ghana",
+		"code" : "GH",
+		"prefix_phone" : "+233",
+		"gps_latitude" : 5.5500000000000000,
+		"gps_longitude" : -0.2166670000000000
+	},
+	{
+		"name" : "Gibraltar",
+		"code" : "GI",
+		"prefix_phone" : "+350",
+		"gps_latitude" : 36.1333333333330000,
+		"gps_longitude" : -5.3500000000000000
+	},
+	{
+		"name" : "Greece",
+		"code" : "GR",
+		"prefix_phone" : "+30",
+		"gps_latitude" : 37.9833333333330000,
+		"gps_longitude" : 23.7333330000000000
+	},
+	{
+		"name" : "Greenland",
+		"code" : "GL",
+		"prefix_phone" : "+299",
+		"gps_latitude" : 64.1833333333330000,
+		"gps_longitude" : -51.7500000000000000
+	},
+	{
+		"name" : "Grenada",
+		"code" : "GD",
+		"prefix_phone" : "+1-473",
+		"gps_latitude" : 12.0500000000000000,
+		"gps_longitude" : -61.7500000000000000
+	},
+	{
+		"name" : "Guadaloupe",
+		"code" : "GP",
+		"prefix_phone" : "+590",
+		"gps_latitude" : 16.1730949000000000,
+		"gps_longitude" : -61.4054001000000000
+	},
+	{
+		"name" : "Guam",
+		"code" : "GU",
+		"prefix_phone" : "+1-671",
+		"gps_latitude" : 13.4666666666670000,
+		"gps_longitude" : 144.7333330000000000
+	},
+	{
+		"name" : "Guatemala",
+		"code" : "GT",
+		"prefix_phone" : "+502",
+		"gps_latitude" : 14.6166666666670000,
+		"gps_longitude" : -90.5166670000000000
+	},
+	{
+		"name" : "Guernsey",
+		"code" : "GG",
+		"prefix_phone" : "+44",
+		"gps_latitude" : 49.4500000000000000,
+		"gps_longitude" : -2.5333330000000000
+	},
+	{
+		"name" : "Guinea",
+		"code" : "GN",
+		"prefix_phone" : "+224",
+		"gps_latitude" : 9.5000000000000000,
+		"gps_longitude" : -13.7000000000000000
+	},
+	{
+		"name" : "Guinea-Bissau",
+		"code" : "GW",
+		"prefix_phone" : "+245",
+		"gps_latitude" : 11.8500000000000000,
+		"gps_longitude" : -15.5833330000000000
+	},
+	{
+		"name" : "Guyana",
+		"code" : "GY",
+		"prefix_phone" : "+592",
+		"gps_latitude" : 6.8000000000000000,
+		"gps_longitude" : -58.1500000000000000
+	},
+	{
+		"name" : "Haiti",
+		"code" : "HT",
+		"prefix_phone" : "+509",
+		"gps_latitude" : 18.5333333333330000,
+		"gps_longitude" : -72.3333330000000000
+	},
+	{
+		"name" : "Heard Island and McDonald Islands",
+		"code" : "HM",
+		"prefix_phone" : "0",
+		"gps_latitude" : 0E-16,
+		"gps_longitude" : 0E-16
+	},
+	{
+		"name" : "Honduras",
+		"code" : "HN",
+		"prefix_phone" : "+504",
+		"gps_latitude" : 14.1000000000000000,
+		"gps_longitude" : -87.2166670000000000
+	},
+	{
+		"name" : "Hong Kong",
+		"code" : "HK",
+		"prefix_phone" : "+852",
+		"gps_latitude" : 0E-16,
+		"gps_longitude" : 0E-16
+	},
+	{
+		"name" : "Hungary",
+		"code" : "HU",
+		"prefix_phone" : "+36",
+		"gps_latitude" : 47.5000000000000000,
+		"gps_longitude" : 19.0833330000000000
+	},
+	{
+		"name" : "Iceland",
+		"code" : "IS",
+		"prefix_phone" : "+354",
+		"gps_latitude" : 64.1500000000000000,
+		"gps_longitude" : -21.9500000000000000
+	},
+	{
+		"name" : "India",
+		"code" : "IN",
+		"prefix_phone" : "+91",
+		"gps_latitude" : 28.6000000000000000,
+		"gps_longitude" : 77.2000000000000000
+	},
+	{
+		"name" : "Indonesia",
+		"code" : "ID",
+		"prefix_phone" : "+62",
+		"gps_latitude" : -6.1666666666667000,
+		"gps_longitude" : 106.8166670000000000
+	},
+	{
+		"name" : "Iran",
+		"code" : "IR",
+		"prefix_phone" : "+98",
+		"gps_latitude" : 35.7000000000000000,
+		"gps_longitude" : 51.4166670000000000
+	},
+	{
+		"name" : "Iraq",
+		"code" : "IQ",
+		"prefix_phone" : "+964",
+		"gps_latitude" : 33.3333333333330000,
+		"gps_longitude" : 44.4000000000000000
+	},
+	{
+		"name" : "Ireland",
+		"code" : "IE",
+		"prefix_phone" : "+353",
+		"gps_latitude" : 53.3166666666670000,
+		"gps_longitude" : -6.2333330000000000
+	},
+	{
+		"name" : "Isle of Man",
+		"code" : "IM",
+		"prefix_phone" : "+44",
+		"gps_latitude" : 54.1500000000000000,
+		"gps_longitude" : -4.4833330000000000
+	},
+	{
+		"name" : "Israel",
+		"code" : "IL",
+		"prefix_phone" : "+972",
+		"gps_latitude" : 31.7666666666670000,
+		"gps_longitude" : 35.2333330000000000
+	},
+	{
+		"name" : "Italy",
+		"code" : "IT",
+		"prefix_phone" : "+39",
+		"gps_latitude" : 41.9000000000000000,
+		"gps_longitude" : 12.4833330000000000
+	},
+	{
+		"name" : "Jamaica",
+		"code" : "JM",
+		"prefix_phone" : "+1-876",
+		"gps_latitude" : 18.0000000000000000,
+		"gps_longitude" : -76.8000000000000000
+	},
+	{
+		"name" : "Japan",
+		"code" : "JP",
+		"prefix_phone" : "+81",
+		"gps_latitude" : 35.6833333333330000,
+		"gps_longitude" : 139.7500000000000000
+	},
+	{
+		"name" : "Jersey",
+		"code" : "JE",
+		"prefix_phone" : "+44",
+		"gps_latitude" : 49.1833333333330000,
+		"gps_longitude" : -2.1000000000000000
+	},
+	{
+		"name" : "Jordan",
+		"code" : "JO",
+		"prefix_phone" : "+962",
+		"gps_latitude" : 31.9500000000000000,
+		"gps_longitude" : 35.9333330000000000
+	},
+	{
+		"name" : "Kazakhstan",
+		"code" : "KZ",
+		"prefix_phone" : "+7",
+		"gps_latitude" : 51.1666666666670000,
+		"gps_longitude" : 71.4166670000000000
+	},
+	{
+		"name" : "Kenya",
+		"code" : "KE",
+		"prefix_phone" : "+254",
+		"gps_latitude" : -1.2833333333333000,
+		"gps_longitude" : 36.8166670000000000
+	},
+	{
+		"name" : "Kiribati",
+		"code" : "KI",
+		"prefix_phone" : "+686",
+		"gps_latitude" : -0.8833333333333300,
+		"gps_longitude" : 169.5333330000000000
+	},
+	{
+		"name" : "Kosovo",
+		"code" : "XK",
+		"prefix_phone" : "+383",
+		"gps_latitude" : 42.6639400000000000,
+		"gps_longitude" : 21.0961100000000000
+	},
+	{
+		"name" : "Kuwait",
+		"code" : "KW",
+		"prefix_phone" : "+965",
+		"gps_latitude" : 29.3666666666670000,
+		"gps_longitude" : 47.9666670000000000
+	},
+	{
+		"name" : "Kyrgyzstan",
+		"code" : "KG",
+		"prefix_phone" : "+996",
+		"gps_latitude" : 42.8666666666670000,
+		"gps_longitude" : 74.6000000000000000
+	},
+	{
+		"name" : "Laos",
+		"code" : "LA",
+		"prefix_phone" : "+856",
+		"gps_latitude" : 17.9666666666670000,
+		"gps_longitude" : 102.6000000000000000
+	},
+	{
+		"name" : "Latvia",
+		"code" : "LV",
+		"prefix_phone" : "+371",
+		"gps_latitude" : 56.9500000000000000,
+		"gps_longitude" : 24.1000000000000000
+	},
+	{
+		"name" : "Lebanon",
+		"code" : "LB",
+		"prefix_phone" : "+961",
+		"gps_latitude" : 33.8666666666670000,
+		"gps_longitude" : 35.5000000000000000
+	},
+	{
+		"name" : "Lesotho",
+		"code" : "LS",
+		"prefix_phone" : "+266",
+		"gps_latitude" : -29.3166666666670000,
+		"gps_longitude" : 27.4833330000000000
+	},
+	{
+		"name" : "Liberia",
+		"code" : "LR",
+		"prefix_phone" : "+231",
+		"gps_latitude" : 6.3000000000000000,
+		"gps_longitude" : -10.8000000000000000
+	},
+	{
+		"name" : "Libya",
+		"code" : "LY",
+		"prefix_phone" : "+218",
+		"gps_latitude" : 32.8833333333330000,
+		"gps_longitude" : 13.1666670000000000
+	},
+	{
+		"name" : "Liechtenstein",
+		"code" : "LI",
+		"prefix_phone" : "+423",
+		"gps_latitude" : 47.1333333333330000,
+		"gps_longitude" : 9.5166670000000000
+	},
+	{
+		"name" : "Lithuania",
+		"code" : "LT",
+		"prefix_phone" : "+370",
+		"gps_latitude" : 54.6833333333330000,
+		"gps_longitude" : 25.3166670000000000
+	},
+	{
+		"name" : "Luxembourg",
+		"code" : "LU",
+		"prefix_phone" : "+352",
+		"gps_latitude" : 49.6000000000000000,
+		"gps_longitude" : 6.1166670000000000
+	},
+	{
+		"name" : "Macao",
+		"code" : "MO",
+		"prefix_phone" : "+853",
+		"gps_latitude" : 0E-16,
+		"gps_longitude" : 0E-16
+	},
+	{
+		"name" : "Macedonia",
+		"code" : "MK",
+		"prefix_phone" : "+389",
+		"gps_latitude" : 42.0000000000000000,
+		"gps_longitude" : 21.4333330000000000
+	},
+	{
+		"name" : "Madagascar",
+		"code" : "MG",
+		"prefix_phone" : "+261",
+		"gps_latitude" : -18.9166666666670000,
+		"gps_longitude" : 47.5166670000000000
+	},
+	{
+		"name" : "Malawi",
+		"code" : "MW",
+		"prefix_phone" : "+265",
+		"gps_latitude" : -13.9666666666670000,
+		"gps_longitude" : 33.7833330000000000
+	},
+	{
+		"name" : "Malaysia",
+		"code" : "MY",
+		"prefix_phone" : "+60",
+		"gps_latitude" : 3.1666666666667000,
+		"gps_longitude" : 101.7000000000000000
+	},
+	{
+		"name" : "Maldives",
+		"code" : "MV",
+		"prefix_phone" : "+960",
+		"gps_latitude" : 4.1666666666667000,
+		"gps_longitude" : 73.5000000000000000
+	},
+	{
+		"name" : "Mali",
+		"code" : "ML",
+		"prefix_phone" : "+223",
+		"gps_latitude" : 12.6500000000000000,
+		"gps_longitude" : -8.0000000000000000
+	},
+	{
+		"name" : "Malta",
+		"code" : "MT",
+		"prefix_phone" : "+356",
+		"gps_latitude" : 35.8833333333330000,
+		"gps_longitude" : 14.5000000000000000
+	},
+	{
+		"name" : "Marshall Islands",
+		"code" : "MH",
+		"prefix_phone" : "+692",
+		"gps_latitude" : 7.1000000000000000,
+		"gps_longitude" : 171.3833330000000000
+	},
+	{
+		"name" : "Martinique",
+		"code" : "MQ",
+		"prefix_phone" : "+596",
+		"gps_latitude" : 14.6336817000000000,
+		"gps_longitude" : -61.0198104000000000
+	},
+	{
+		"name" : "Mauritania",
+		"code" : "MR",
+		"prefix_phone" : "+222",
+		"gps_latitude" : 18.0666666666670000,
+		"gps_longitude" : -15.9666670000000000
+	},
+	{
+		"name" : "Mauritius",
+		"code" : "MU",
+		"prefix_phone" : "+230",
+		"gps_latitude" : -20.1500000000000000,
+		"gps_longitude" : 57.4833330000000000
+	},
+	{
+		"name" : "Mayotte",
+		"code" : "YT",
+		"prefix_phone" : "+269",
+		"gps_latitude" : -12.8210325000000000,
+		"gps_longitude" : 45.1590997000000000
+	},
+	{
+		"name" : "Mexico",
+		"code" : "MX",
+		"prefix_phone" : "+52",
+		"gps_latitude" : 19.4333333333330000,
+		"gps_longitude" : -99.1333330000000000
+	},
+	{
+		"name" : "Micronesia",
+		"code" : "FM",
+		"prefix_phone" : "+691",
+		"gps_latitude" : 6.9166666666667000,
+		"gps_longitude" : 158.1500000000000000
+	},
+	{
+		"name" : "Moldava",
+		"code" : "MD",
+		"prefix_phone" : "+373",
+		"gps_latitude" : 47.0000000000000000,
+		"gps_longitude" : 28.8500000000000000
+	},
+	{
+		"name" : "Monaco",
+		"code" : "MC",
+		"prefix_phone" : "+377",
+		"gps_latitude" : 43.7333333333330000,
+		"gps_longitude" : 7.4166670000000000
+	},
+	{
+		"name" : "Mongolia",
+		"code" : "MN",
+		"prefix_phone" : "+976",
+		"gps_latitude" : 47.9166666666670000,
+		"gps_longitude" : 106.9166670000000000
+	},
+	{
+		"name" : "Montenegro",
+		"code" : "ME",
+		"prefix_phone" : "+382",
+		"gps_latitude" : 42.4333333333330000,
+		"gps_longitude" : 19.2666670000000000
+	},
+	{
+		"name" : "Montserrat",
+		"code" : "MS",
+		"prefix_phone" : "+1-664",
+		"gps_latitude" : 16.7000000000000000,
+		"gps_longitude" : -62.2166670000000000
+	},
+	{
+		"name" : "Morocco",
+		"code" : "MA",
+		"prefix_phone" : "+212",
+		"gps_latitude" : 34.0166666666670000,
+		"gps_longitude" : -6.8166670000000000
+	},
+	{
+		"name" : "Mozambique",
+		"code" : "MZ",
+		"prefix_phone" : "+258",
+		"gps_latitude" : -25.9500000000000000,
+		"gps_longitude" : 32.5833330000000000
+	},
+	{
+		"name" : "Myanmar (Burma)",
+		"code" : "MM",
+		"prefix_phone" : "+95",
+		"gps_latitude" : 16.8000000000000000,
+		"gps_longitude" : 96.1500000000000000
+	},
+	{
+		"name" : "Namibia",
+		"code" : "NA",
+		"prefix_phone" : "+264",
+		"gps_latitude" : -22.5666666666670000,
+		"gps_longitude" : 17.0833330000000000
+	},
+	{
+		"name" : "Nauru",
+		"code" : "NR",
+		"prefix_phone" : "+674",
+		"gps_latitude" : -0.5477000000000000,
+		"gps_longitude" : 166.9208670000000000
+	},
+	{
+		"name" : "Nepal",
+		"code" : "NP",
+		"prefix_phone" : "+977",
+		"gps_latitude" : 27.7166666666670000,
+		"gps_longitude" : 85.3166670000000000
+	},
+	{
+		"name" : "Netherlands",
+		"code" : "NL",
+		"prefix_phone" : "+31",
+		"gps_latitude" : 52.3500000000000000,
+		"gps_longitude" : 4.9166670000000000
+	},
+	{
+		"name" : "New Caledonia",
+		"code" : "NC",
+		"prefix_phone" : "+687",
+		"gps_latitude" : -22.2666666666670000,
+		"gps_longitude" : 166.4500000000000000
+	},
+	{
+		"name" : "New Zealand",
+		"code" : "NZ",
+		"prefix_phone" : "+64",
+		"gps_latitude" : -41.3000000000000000,
+		"gps_longitude" : 174.7833330000000000
+	},
+	{
+		"name" : "Nicaragua",
+		"code" : "NI",
+		"prefix_phone" : "+505",
+		"gps_latitude" : 12.1333333333330000,
+		"gps_longitude" : -86.2500000000000000
+	},
+	{
+		"name" : "Niger",
+		"code" : "NE",
+		"prefix_phone" : "+227",
+		"gps_latitude" : 13.5166666666670000,
+		"gps_longitude" : 2.1166670000000000
+	},
+	{
+		"name" : "Nigeria",
+		"code" : "NG",
+		"prefix_phone" : "+234",
+		"gps_latitude" : 9.0833333333333000,
+		"gps_longitude" : 7.5333330000000000
+	},
+	{
+		"name" : "Niue",
+		"code" : "NU",
+		"prefix_phone" : "+683",
+		"gps_latitude" : -19.0166666666670000,
+		"gps_longitude" : -169.9166670000000000
+	},
+	{
+		"name" : "Norfolk Island",
+		"code" : "NF",
+		"prefix_phone" : "+672",
+		"gps_latitude" : -29.0500000000000000,
+		"gps_longitude" : 167.9666670000000000
+	},
+	{
+		"name" : "North Korea",
+		"code" : "KP",
+		"prefix_phone" : "+850",
+		"gps_latitude" : 39.0166666666670000,
+		"gps_longitude" : 125.7500000000000000
+	},
+	{
+		"name" : "Northern Mariana Islands",
+		"code" : "MP",
+		"prefix_phone" : "+1-670",
+		"gps_latitude" : 15.2000000000000000,
+		"gps_longitude" : 145.7500000000000000
+	},
+	{
+		"name" : "Norway",
+		"code" : "NO",
+		"prefix_phone" : "+47",
+		"gps_latitude" : 59.9166666666670000,
+		"gps_longitude" : 10.7500000000000000
+	},
+	{
+		"name" : "Oman",
+		"code" : "OM",
+		"prefix_phone" : "+968",
+		"gps_latitude" : 23.6166666666670000,
+		"gps_longitude" : 58.5833330000000000
+	},
+	{
+		"name" : "Pakistan",
+		"code" : "PK",
+		"prefix_phone" : "+92",
+		"gps_latitude" : 33.6833333333330000,
+		"gps_longitude" : 73.0500000000000000
+	},
+	{
+		"name" : "Palau",
+		"code" : "PW",
+		"prefix_phone" : "+680",
+		"gps_latitude" : 7.4833333333333000,
+		"gps_longitude" : 134.6333330000000000
+	},
+	{
+		"name" : "Palestine",
+		"code" : "PS",
+		"prefix_phone" : "+970",
+		"gps_latitude" : 31.7666666666670000,
+		"gps_longitude" : 35.2333330000000000
+	},
+	{
+		"name" : "Panama",
+		"code" : "PA",
+		"prefix_phone" : "+507",
+		"gps_latitude" : 8.9666666666667000,
+		"gps_longitude" : -79.5333330000000000
+	},
+	{
+		"name" : "Papua New Guinea",
+		"code" : "PG",
+		"prefix_phone" : "+675",
+		"gps_latitude" : -9.4500000000000000,
+		"gps_longitude" : 147.1833330000000000
+	},
+	{
+		"name" : "Paraguay",
+		"code" : "PY",
+		"prefix_phone" : "+595",
+		"gps_latitude" : -25.2666666666670000,
+		"gps_longitude" : -57.6666670000000000
+	},
+	{
+		"name" : "Peru",
+		"code" : "PE",
+		"prefix_phone" : "+51",
+		"gps_latitude" : -12.0500000000000000,
+		"gps_longitude" : -77.0500000000000000
+	},
+	{
+		"name" : "Phillipines",
+		"code" : "PH",
+		"prefix_phone" : "+63",
+		"gps_latitude" : 14.6000000000000000,
+		"gps_longitude" : 120.9666670000000000
+	},
+	{
+		"name" : "Pitcairn",
+		"code" : "PN",
+		"prefix_phone" : "0",
+		"gps_latitude" : -25.0666666666670000,
+		"gps_longitude" : -130.0833330000000000
+	},
+	{
+		"name" : "Poland",
+		"code" : "PL",
+		"prefix_phone" : "+48",
+		"gps_latitude" : 52.2500000000000000,
+		"gps_longitude" : 21.0000000000000000
+	},
+	{
+		"name" : "Portugal",
+		"code" : "PT",
+		"prefix_phone" : "+351",
+		"gps_latitude" : 38.7166666666670000,
+		"gps_longitude" : -9.1333330000000000
+	},
+	{
+		"name" : "Puerto Rico",
+		"code" : "PR",
+		"prefix_phone" : "+1-787",
+		"gps_latitude" : 18.4666666666670000,
+		"gps_longitude" : -66.1166670000000000
+	},
+	{
+		"name" : "Qatar",
+		"code" : "QA",
+		"prefix_phone" : "+974 ",
+		"gps_latitude" : 25.2833333333330000,
+		"gps_longitude" : 51.5333330000000000
+	},
+	{
+		"name" : "Reunion",
+		"code" : "RE",
+		"prefix_phone" : "+262",
+		"gps_latitude" : -21.1086662320000000,
+		"gps_longitude" : 55.5261645620000000
+	},
+	{
+		"name" : "Romania",
+		"code" : "RO",
+		"prefix_phone" : "+40",
+		"gps_latitude" : 44.4333333333330000,
+		"gps_longitude" : 26.1000000000000000
+	},
+	{
+		"name" : "Russia",
+		"code" : "RU",
+		"prefix_phone" : "+7",
+		"gps_latitude" : 55.7500000000000000,
+		"gps_longitude" : 37.6000000000000000
+	},
+	{
+		"name" : "Rwanda",
+		"code" : "RW",
+		"prefix_phone" : "+250",
+		"gps_latitude" : -1.9500000000000000,
+		"gps_longitude" : 30.0500000000000000
+	},
+	{
+		"name" : "Saint Barthelemy",
+		"code" : "BL",
+		"prefix_phone" : "+590",
+		"gps_latitude" : 17.8833333333330000,
+		"gps_longitude" : -62.8500000000000000
+	},
+	{
+		"name" : "Saint Helena",
+		"code" : "SH",
+		"prefix_phone" : "+290",
+		"gps_latitude" : -15.9333333333330000,
+		"gps_longitude" : -5.7166670000000000
+	},
+	{
+		"name" : "Saint Kitts and Nevis",
+		"code" : "KN",
+		"prefix_phone" : "+1-869",
+		"gps_latitude" : 17.3000000000000000,
+		"gps_longitude" : -62.7166670000000000
+	},
+	{
+		"name" : "Saint Lucia",
+		"code" : "LC",
+		"prefix_phone" : "+1-758",
+		"gps_latitude" : 14.0000000000000000,
+		"gps_longitude" : -61.0000000000000000
+	},
+	{
+		"name" : "Saint Martin",
+		"code" : "MF",
+		"prefix_phone" : "+590",
+		"gps_latitude" : 18.0731000000000000,
+		"gps_longitude" : -63.0822000000000000
+	},
+	{
+		"name" : "Saint Pierre and Miquelon",
+		"code" : "PM",
+		"prefix_phone" : "+508",
+		"gps_latitude" : 46.7666666666670000,
+		"gps_longitude" : -56.1833330000000000
+	},
+	{
+		"name" : "Saint Vincent and the Grenadines",
+		"code" : "VC",
+		"prefix_phone" : "+1-784",
+		"gps_latitude" : 13.1333333333330000,
+		"gps_longitude" : -61.2166670000000000
+	},
+	{
+		"name" : "Samoa",
+		"code" : "WS",
+		"prefix_phone" : "+685",
+		"gps_latitude" : -13.8166666666670000,
+		"gps_longitude" : -171.7666670000000000
+	},
+	{
+		"name" : "San Marino",
+		"code" : "SM",
+		"prefix_phone" : "+378",
+		"gps_latitude" : 43.9333333333330000,
+		"gps_longitude" : 12.4166670000000000
+	},
+	{
+		"name" : "Sao Tome and Principe",
+		"code" : "ST",
+		"prefix_phone" : "+239",
+		"gps_latitude" : 0.3333333333333300,
+		"gps_longitude" : 6.7333330000000000
+	},
+	{
+		"name" : "Saudi Arabia",
+		"code" : "SA",
+		"prefix_phone" : "+966",
+		"gps_latitude" : 24.6500000000000000,
+		"gps_longitude" : 46.7000000000000000
+	},
+	{
+		"name" : "Senegal",
+		"code" : "SN",
+		"prefix_phone" : "+221",
+		"gps_latitude" : 14.7333333333330000,
+		"gps_longitude" : -17.6333330000000000
+	},
+	{
+		"name" : "Serbia",
+		"code" : "RS",
+		"prefix_phone" : "0",
+		"gps_latitude" : 44.8333333333330000,
+		"gps_longitude" : 20.5000000000000000
+	},
+	{
+		"name" : "Seychelles",
+		"code" : "SC",
+		"prefix_phone" : "+248",
+		"gps_latitude" : -4.6166666666667000,
+		"gps_longitude" : 55.4500000000000000
+	},
+	{
+		"name" : "Sierra Leone",
+		"code" : "SL",
+		"prefix_phone" : "+232",
+		"gps_latitude" : 8.4833333333333000,
+		"gps_longitude" : -13.2333330000000000
+	},
+	{
+		"name" : "Singapore",
+		"code" : "SG",
+		"prefix_phone" : "+65",
+		"gps_latitude" : 1.2833333333333000,
+		"gps_longitude" : 103.8500000000000000
+	},
+	{
+		"name" : "Sint Maarten",
+		"code" : "SX",
+		"prefix_phone" : "+1721",
+		"gps_latitude" : 18.0166666666670000,
+		"gps_longitude" : -63.0333330000000000
+	},
+	{
+		"name" : "Slovakia",
+		"code" : "SK",
+		"prefix_phone" : "+421",
+		"gps_latitude" : 48.1500000000000000,
+		"gps_longitude" : 17.1166670000000000
+	},
+	{
+		"name" : "Slovenia",
+		"code" : "SI",
+		"prefix_phone" : "+386",
+		"gps_latitude" : 46.0500000000000000,
+		"gps_longitude" : 14.5166670000000000
+	},
+	{
+		"name" : "Solomon Islands",
+		"code" : "SB",
+		"prefix_phone" : "+677",
+		"gps_latitude" : -9.4333333333333000,
+		"gps_longitude" : 159.9500000000000000
+	},
+	{
+		"name" : "Somalia",
+		"code" : "SO",
+		"prefix_phone" : "+252",
+		"gps_latitude" : 2.0666666666667000,
+		"gps_longitude" : 45.3333330000000000
+	},
+	{
+		"name" : "South Africa",
+		"code" : "ZA",
+		"prefix_phone" : "+27",
+		"gps_latitude" : -25.7000000000000000,
+		"gps_longitude" : 28.2166670000000000
+	},
+	{
+		"name" : "South Georgia and the South Sandwich Islands",
+		"code" : "GS",
+		"prefix_phone" : "0",
+		"gps_latitude" : -54.2833330000000000,
+		"gps_longitude" : -36.5000000000000000
+	},
+	{
+		"name" : "South Korea",
+		"code" : "KR",
+		"prefix_phone" : "+82",
+		"gps_latitude" : 37.5500000000000000,
+		"gps_longitude" : 126.9833330000000000
+	},
+	{
+		"name" : "South Sudan",
+		"code" : "SS",
+		"prefix_phone" : "+211",
+		"gps_latitude" : 4.8500000000000000,
+		"gps_longitude" : 31.6166670000000000
+	},
+	{
+		"name" : "Sri Lanka",
+		"code" : "LK",
+		"prefix_phone" : "+94",
+		"gps_latitude" : 6.9166666666667000,
+		"gps_longitude" : 79.8333330000000000
+	},
+	{
+		"name" : "Sudan",
+		"code" : "SD",
+		"prefix_phone" : "+249",
+		"gps_latitude" : 15.6000000000000000,
+		"gps_longitude" : 32.5333330000000000
+	},
+	{
+		"name" : "Suriname",
+		"code" : "SR",
+		"prefix_phone" : "+597",
+		"gps_latitude" : 5.8333333333333000,
+		"gps_longitude" : -55.1666670000000000
+	},
+	{
+		"name" : "Svalbard and Jan Mayen",
+		"code" : "SJ",
+		"prefix_phone" : "0",
+		"gps_latitude" : 78.2166666666670000,
+		"gps_longitude" : 15.6333330000000000
+	},
+	{
+		"name" : "Swaziland",
+		"code" : "SZ",
+		"prefix_phone" : "+268",
+		"gps_latitude" : -26.3166666666670000,
+		"gps_longitude" : 31.1333330000000000
+	},
+	{
+		"name" : "Sweden",
+		"code" : "SE",
+		"prefix_phone" : "+46",
+		"gps_latitude" : 59.3333333333330000,
+		"gps_longitude" : 18.0500000000000000
+	},
+	{
+		"name" : "Switzerland",
+		"code" : "CH",
+		"prefix_phone" : "+41",
+		"gps_latitude" : 46.9166666666670000,
+		"gps_longitude" : 7.4666670000000000
+	},
+	{
+		"name" : "Syria",
+		"code" : "SY",
+		"prefix_phone" : "+963",
+		"gps_latitude" : 33.5000000000000000,
+		"gps_longitude" : 36.3000000000000000
+	},
+	{
+		"name" : "Taiwan",
+		"code" : "TW",
+		"prefix_phone" : "+886",
+		"gps_latitude" : 25.0333333333330000,
+		"gps_longitude" : 121.5166670000000000
+	},
+	{
+		"name" : "Tajikistan",
+		"code" : "TJ",
+		"prefix_phone" : "+992",
+		"gps_latitude" : 38.5500000000000000,
+		"gps_longitude" : 68.7666670000000000
+	},
+	{
+		"name" : "Tanzania",
+		"code" : "TZ",
+		"prefix_phone" : "+255",
+		"gps_latitude" : -6.8000000000000000,
+		"gps_longitude" : 39.2833330000000000
+	},
+	{
+		"name" : "Thailand",
+		"code" : "TH",
+		"prefix_phone" : "+66",
+		"gps_latitude" : 13.7500000000000000,
+		"gps_longitude" : 100.5166670000000000
+	},
+	{
+		"name" : "Timor-Leste (East Timor)",
+		"code" : "TL",
+		"prefix_phone" : "+670",
+		"gps_latitude" : -8.5833333333333000,
+		"gps_longitude" : 125.6000000000000000
+	},
+	{
+		"name" : "Togo",
+		"code" : "TG",
+		"prefix_phone" : "0",
+		"gps_latitude" : 6.1166666666667000,
+		"gps_longitude" : 1.2166670000000000
+	},
+	{
+		"name" : "Tokelau",
+		"code" : "TK",
+		"prefix_phone" : "+690",
+		"gps_latitude" : -9.1666670000000000,
+		"gps_longitude" : -171.8333330000000000
+	},
+	{
+		"name" : "Tonga",
+		"code" : "TO",
+		"prefix_phone" : "+676",
+		"gps_latitude" : -21.1333333333330000,
+		"gps_longitude" : -175.2000000000000000
+	},
+	{
+		"name" : "Trinidad and Tobago",
+		"code" : "TT",
+		"prefix_phone" : "+1-868",
+		"gps_latitude" : 10.6500000000000000,
+		"gps_longitude" : -61.5166670000000000
+	},
+	{
+		"name" : "Tunisia",
+		"code" : "TN",
+		"prefix_phone" : "+216",
+		"gps_latitude" : 36.8000000000000000,
+		"gps_longitude" : 10.1833330000000000
+	},
+	{
+		"name" : "Turkey",
+		"code" : "TR",
+		"prefix_phone" : "+90",
+		"gps_latitude" : 39.9333333333330000,
+		"gps_longitude" : 32.8666670000000000
+	},
+	{
+		"name" : "Turkmenistan",
+		"code" : "TM",
+		"prefix_phone" : "+993",
+		"gps_latitude" : 37.9500000000000000,
+		"gps_longitude" : 58.3833330000000000
+	},
+	{
+		"name" : "Turks and Caicos Islands",
+		"code" : "TC",
+		"prefix_phone" : "+1-649",
+		"gps_latitude" : 21.4666666666670000,
+		"gps_longitude" : -71.1333330000000000
+	},
+	{
+		"name" : "Tuvalu",
+		"code" : "TV",
+		"prefix_phone" : "+688",
+		"gps_latitude" : -8.5166666666667000,
+		"gps_longitude" : 179.2166670000000000
+	},
+	{
+		"name" : "Uganda",
+		"code" : "UG",
+		"prefix_phone" : "+256",
+		"gps_latitude" : 0.3166666666666700,
+		"gps_longitude" : 32.5500000000000000
+	},
+	{
+		"name" : "Ukraine",
+		"code" : "UA",
+		"prefix_phone" : "+380",
+		"gps_latitude" : 50.4333333333330000,
+		"gps_longitude" : 30.5166670000000000
+	},
+	{
+		"name" : "United Arab Emirates",
+		"code" : "AE",
+		"prefix_phone" : "+971",
+		"gps_latitude" : 24.4666666666670000,
+		"gps_longitude" : 54.3666670000000000
+	},
+	{
+		"name" : "United Kingdom",
+		"code" : "GB",
+		"prefix_phone" : "0",
+		"gps_latitude" : 51.5000000000000000,
+		"gps_longitude" : -0.0833330000000000
+	},
+	{
+		"name" : "United States",
+		"code" : "US",
+		"prefix_phone" : "+1",
+		"gps_latitude" : 37.6000000000000000,
+		"gps_longitude" : -95.6650000000000000
+	},
+	{
+		"name" : "United States Minor Outlying Islands",
+		"code" : "UM",
+		"prefix_phone" : "0",
+		"gps_latitude" : -0.3743500000000000,
+		"gps_longitude" : -159.9967190000000000
+	},
+	{
+		"name" : "Uruguay",
+		"code" : "UY",
+		"prefix_phone" : "+598",
+		"gps_latitude" : -34.8500000000000000,
+		"gps_longitude" : -56.1666670000000000
+	},
+	{
+		"name" : "Uzbekistan",
+		"code" : "UZ",
+		"prefix_phone" : "+998",
+		"gps_latitude" : 41.3166666666670000,
+		"gps_longitude" : 69.2500000000000000
+	},
+	{
+		"name" : "Vanuatu",
+		"code" : "VU",
+		"prefix_phone" : "+678",
+		"gps_latitude" : -17.7333333333330000,
+		"gps_longitude" : 168.3166670000000000
+	},
+	{
+		"name" : "Vatican City",
+		"code" : "VA",
+		"prefix_phone" : "0",
+		"gps_latitude" : 41.9000000000000000,
+		"gps_longitude" : 12.4500000000000000
+	},
+	{
+		"name" : "Venezuela",
+		"code" : "VE",
+		"prefix_phone" : "+58",
+		"gps_latitude" : 10.4833333333330000,
+		"gps_longitude" : -66.8666670000000000
+	},
+	{
+		"name" : "Vietnam",
+		"code" : "VN",
+		"prefix_phone" : "+84",
+		"gps_latitude" : 21.0333333333330000,
+		"gps_longitude" : 105.8500000000000000
+	},
+	{
+		"name" : "Virgin Islands  British",
+		"code" : "VG",
+		"prefix_phone" : "+1-284",
+		"gps_latitude" : 18.4166666666670000,
+		"gps_longitude" : -64.6166670000000000
+	},
+	{
+		"name" : "Virgin Islands",
+		"code" : "VI",
+		"prefix_phone" : "+1-284",
+		"gps_latitude" : 18.3500000000000000,
+		"gps_longitude" : -64.9333330000000000
+	},
+	{
+		"name" : "Wallis and Futuna",
+		"code" : "WF",
+		"prefix_phone" : "+681",
+		"gps_latitude" : -13.9500000000000000,
+		"gps_longitude" : -171.9333330000000000
+	},
+	{
+		"name" : "Western Sahara",
+		"code" : "EH",
+		"prefix_phone" : "0",
+		"gps_latitude" : 27.1536110000000000,
+		"gps_longitude" : -13.2033330000000000
+	},
+	{
+		"name" : "Yemen",
+		"code" : "YE",
+		"prefix_phone" : "+967",
+		"gps_latitude" : 15.3500000000000000,
+		"gps_longitude" : 44.2000000000000000
+	},
+	{
+		"name" : "Zambia",
+		"code" : "ZM",
+		"prefix_phone" : "+260",
+		"gps_latitude" : -15.4166666666670000,
+		"gps_longitude" : 28.2833330000000000
+	},
+	{
+		"name" : "Zimbabwe",
+		"code" : "ZW",
+		"prefix_phone" : "+263",
+		"gps_latitude" : -17.8166666666670000,
+		"gps_longitude" : 31.0333330000000000
+	},
+	{
+		"name" : "Spain",
+		"code" : "ES",
+		"prefix_phone" : "+34",
+		"gps_latitude" : 40.4000000000000000,
+		"gps_longitude" : -3.6833330000000000
+	}
+]
